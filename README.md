@@ -1,3 +1,6 @@
+
+# bootcamp.2.0
+
 # Project.sol — Simple Message Storage Smart Contract
 
 ## **Contract Address**
@@ -79,5 +82,3 @@ This project provides a **small, self-contained example** that demonstrates the 
 
 ## 🚀 Start learning, customizing, and expanding!
 This repository gives you everything needed to build your first functional dApp using Solidity + Next.js.
-
-
